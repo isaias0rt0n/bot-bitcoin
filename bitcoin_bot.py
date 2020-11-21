@@ -3,7 +3,6 @@ import json
 
 import websocket
 import bitstamp.client
-from pyexpat.errors import messages
 
 import credenciais
 
